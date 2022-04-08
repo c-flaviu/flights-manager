@@ -16,3 +16,4 @@ Resources:
 - https://bootstrap-vue.org/
 - https://vuetifyjs.com/en/
 - https://openskynetwork.github.io/opensky-api/rest.html#
+- https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar
