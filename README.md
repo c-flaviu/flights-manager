@@ -11,6 +11,7 @@
 Resources:
 - https://vuejs.org/
 - https://vitejs.dev/
+- https://github.com/antfu/vitesse
 - https://vuex.vuejs.org/
 - https://bootstrap-vue.org/
 - https://vuetifyjs.com/en/
